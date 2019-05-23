@@ -1,5 +1,5 @@
 # Credit_scoring
-<img src='https://github.com/titoniubo/text_classification/blob/master/textpic_education.JPG' width=100% height=50% />
+<img src='https://github.com/titoniubo/credit_scoring/blob/master/image.png' width=100% height=50% />
 
 This projects uses banking data to predict credit scoring, in other words, wether a person can be graned a new credit or not. 
 

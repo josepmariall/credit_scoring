@@ -8,7 +8,7 @@ According to [investopedia](https://www.investopedia.com/terms/c/credit_scoring.
 ## Table of Contents 
 The following jupyter notebooks are provided:
 1. [1. Data Preparation](https://github.com/titoniubo/credit_scoring/blob/master/1.Data%20Preparation.ipynb)
-2. [2. Model Creation and Algorithm testing](https://github.com/titoniubo/text_classification/blob/master/2.%20Data%20Processing.ipynb)
+2. [2. Model Creation and Algorithm testing](https://github.com/titoniubo/credit_scoring/blob/master/2.Model%20Creation%20and%20Algorithm%20testing.ipynb)
 
 
 ### Code of ethics

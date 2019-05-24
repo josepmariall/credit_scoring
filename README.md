@@ -18,7 +18,7 @@ The following jupyter notebooks are provided:
 This project has been undertaken complying with a code of [ethics](https://github.com/titoniubo/credit_scoring/blob/master/Code%20of%20ethics.txt) 
 
 ### Install
-I provide the [environment](https://github.com/titoniubo/credit_scoring/blob/master/machine-learning.yml) used to run this code.
+I provide the [environment](https://github.com/titoniubo/credit_scoring/blob/master/enrionment.yml) used to run this code.
 
 ### License
 This project is under Copyright © 2019 Josep Maria Niubo. It is free software, and may be redistributed under the terms specified in the [LICENSE](https://github.com/titoniubo/credit_scoring/blob/master/License.txt) file

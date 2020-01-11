@@ -9,7 +9,6 @@ dependencies:
   - anaconda-client=1.7.2=py37_0
   - anaconda-navigator=1.9.7=py37_0
   - anaconda-project=0.8.2=py37_0
-  - appnope=0.1.0=py37_0
   - appscript=1.1.0=py37h1de35cc_0
   - asn1crypto=0.24.0=py37_0
   - astroid=2.2.5=py37_0
@@ -108,11 +107,8 @@ dependencies:
   - lazy-object-proxy=1.4.1=py37h1de35cc_0
   - libarchive=3.3.3=h786848e_5
   - libcurl=7.64.1=h051b688_0
-  - libcxx=4.0.1=hcfea43d_1
-  - libcxxabi=4.0.1=hcfea43d_1
   - libedit=3.1.20181209=hb402a30_0
   - libffi=3.2.1=h475c297_4
-  - libgfortran=3.0.1=h93005f0_2
   - libiconv=1.15=hdd342a3_7
   - liblief=0.9.0=h2a1bed3_2
   - libpng=1.6.37=ha441bb4_0
